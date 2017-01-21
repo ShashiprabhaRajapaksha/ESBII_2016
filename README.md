@@ -7,9 +7,6 @@
 ## AWS Instances Summary ##
 
 
-### Name : P.H.A.S.Rajapaksha ###
-### IT No: IT13038656 ###
-
 #### This document contains : ####
 1.Getting Started with Amazon EC2 Windows Instances.
 
